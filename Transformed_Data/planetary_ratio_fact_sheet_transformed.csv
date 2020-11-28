@@ -1,4 +1,4 @@
-,Mass,Diameter,Density,Gravity,Escape Velocity,Rotation Period,Length of Day,Distance from Sun,Perihelion,Aphelion,Orbital Period,Orbital Velocity,Orbital Eccentricity,Obliquity to Orbit,Number of Moons,Ring System?
+Planet,Mass,Diameter,Density,Gravity,Escape Velocity,Rotation Period,Length of Day,Distance from Sun,Perihelion,Aphelion,Orbital Period,Orbital Velocity,Orbital Eccentricity,Obliquity to Orbit,Number of Moons,Ring System?
 Mercury,0.0553,0.383,0.984,0.378,0.384,58.8,175.9,0.387,0.313,0.459,0.241,1.59,12.3,0.001,0,No
 Venus,0.815,0.949,0.951,0.907,0.926,-244,116.8,0.723,0.731,0.716,0.615,1.18,0.401,0.113*,0,No
 Earth,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,No
