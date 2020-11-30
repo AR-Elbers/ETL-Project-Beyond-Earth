@@ -1,3 +1,4 @@
 # postgres password
 username = "postgres"
-password = "Diamond96"
+password = "postgres"
+# password = "Diamond96"
