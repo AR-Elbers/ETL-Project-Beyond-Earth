@@ -1,3 +1,6 @@
+-- Drop the view if exists
+DROP VIEW if exists planets_info;
+
 -- Drop the tables if exists
 -- Drop the table "planet_ratio_fact_sheet" first otherwise it will cause an error since the foreign key references to the primary key of table "planet_fact_sheet" if exists
 DROP TABLE if exists planet_ratio_fact_sheet;

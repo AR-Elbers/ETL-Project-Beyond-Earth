@@ -1,6 +1,3 @@
--- Drop the view if exists
-DROP VIEW if exists planets_info;
-
 -- performing a join and selecting/renaming the columns
 -- create a view for the result of the join of 2 tables
 CREATE VIEW planets_info AS 
